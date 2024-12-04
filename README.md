@@ -19,7 +19,7 @@ This is a simple HTML and CSS project in which the main objective is to build ou
 
 ### Screenshot
 
-![Screenshot](./QR_code_component_Screenshot.png)
+![Screenshot](./QR_code_component_screenshot.png)
 
 ### Links
 
